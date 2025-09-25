@@ -1,0 +1,7 @@
+---
+layout: post
+title: "First Kubernetes Deployment"
+date: 2025-09-25
+categories: devops kubernetes
+---
+First application on Kubernetes using Kubernetes deployments.
